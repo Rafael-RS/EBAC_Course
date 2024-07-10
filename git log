@@ -1,0 +1,50 @@
+[33mcommit 1f6f7b9fa17683ba8d3ae25719ff09b6da284782[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rafael-SR <rafa.neg@live.com>
+Date:   Mon Jul 8 00:13:22 2024 -0300
+
+    Ateracoes nos documentos changelog, padrao_changelog e padrao_nomeclatura_git
+
+ changelog.md               |   2 [32m++[m
+ padrao_changelogs.txt      |  18 [32m++++++++++++++++++[m
+ padrao_nomeclatura_git.txt | Bin [31m24[m -> [32m844[m bytes
+ 3 files changed, 20 insertions(+)
+
+[33mcommit 700cbececdbaed4e1120195813ab48db8739d5b8[m
+Author: Rafael-SR <rafa.neg@live.com>
+Date:   Mon Jul 8 00:11:19 2024 -0300
+
+    Chore: removendo arquivo2.txt
+    Docs: renomeando e atualizando Arquivo.txt -> padrao_nomeclatura_git.txt
+
+ arquivo2.txt                              | Bin [31m38[m -> [32m0[m bytes
+ padrao_changelogs.txt                     |   0
+ Arquivo.txt => padrao_nomeclatura_git.txt | Bin
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ce5eb06b0cdef8b41f3f6b6661bcb6e9fd8d41f0[m
+Author: Rafael-SR <rafa.neg@live.com>
+Date:   Sun Jul 7 23:56:32 2024 -0300
+
+    Adicao do changelog.md
+
+ changelog.md | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
+
+[33mcommit bad79ff9969382cc29937cd94d2a3260db6c4cff[m
+Author: Rafael-SR <rafa.neg@live.com>
+Date:   Sun Jul 7 23:48:03 2024 -0300
+
+    alterando arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m38[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 28b23abbe62a996d012cf74bbe0739b03ed699cc[m
+Author: Rafael-SR <rafa.neg@live.com>
+Date:   Sun Jul 7 23:45:22 2024 -0300
+
+    Adicao de novos arquivos
+
+ Arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m34[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
