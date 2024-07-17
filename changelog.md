@@ -9,5 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - added changelog.md
-- added padrao_changelogs.txt
-- added padrao_nomeclaturas_git.txt
+- added Arquivo do exercicio form_cadastro.html
