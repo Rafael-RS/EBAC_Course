@@ -1,0 +1,28 @@
+* {
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header li {
+    display: inline;
+}
+
+.containerSection {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.divArticle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.divArticle article img {
+    height: 180px;
+}
+
+.divArticle article {
+    width: 30%;
+}
