@@ -1,0 +1,18 @@
+body{
+    display: block;
+    width: 200px;
+}
+
+#MsgValidadeFormulario{
+    display: none;
+}
+
+.falha{
+    background-color: red;
+    color: white;
+}
+
+.correto{
+    background-color: green;
+    color: white;
+}
